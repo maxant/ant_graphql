@@ -1,0 +1,17 @@
+{
+  "name": "ant-graphql",
+  "version": "1.0.0",
+  "description": "Just playing with graphql. following tutorial for express-graphql from http://graphql.org/code/#javascript",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.1",
+    "express-graphql": "^0.6.11",
+    "graphql": "^0.11.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
